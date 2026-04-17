@@ -1,6 +1,7 @@
 /*
  * FUTEBOL 2D - OpenGL/FreeGLUT
- *  PARTE DE IA DE JOGO GERADO POR IA (CLAUDE4.5)
+ *  Partes do código foram geradas ou corrigidas por IA 
+ * consulte a documentação
  */
 
  
@@ -850,7 +851,7 @@ static void draw_text_centered(float cx, float y, const char *s, void *font) {
  }
  
  /* ─────────────────────────────────────────
-    IA DE JOGO (GERADO POR IA)
+    IA DE JOGO 
  ───────────────────────────────────────── */
  static void ia_jogador_full(int t, int idx) {
      Jogador *p = &jogadores[t][idx];
@@ -1043,7 +1044,7 @@ static void draw_text_centered(float cx, float y, const char *s, void *font) {
  }
  
  /* ─────────────────────────────────────────
-    ATRIBUIÇÃO DE MARCAÇÃO (GERADO POR IA)
+    ATRIBUIÇÃO DE MARCAÇÃO
  ───────────────────────────────────────── */
  static void atribuir_marcacoes(int t) {
      int adv = 1 - t;
@@ -1101,7 +1102,7 @@ static void draw_text_centered(float cx, float y, const char *s, void *font) {
  }
  
  /* ─────────────────────────────────────────
-    IA do player (gerado por IA)
+    IA do player 
  ───────────────────────────────────────── */
  static void ia_companheiro(int t, int idx) {
      Jogador *p = &jogadores[t][idx];
