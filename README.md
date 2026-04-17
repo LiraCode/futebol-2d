@@ -53,4 +53,4 @@ Equivalente Debian/Ubuntu: `build-essential`, `libgl1-mesa-dev`, `libglu1-mesa-d
 
 ## Créditos
 
-Algumas Partes foram  desenvolvidas com assistência de IA (ver  [**docs/DOCUMENTACAO.md**](docs/DOCUMENTACAO.md).).
+Algumas Partes foram  desenvolvidas com assistência de IA (ver a [**DOCUMENTAÇÃO**](docs/DOCUMENTACAO.md).).
