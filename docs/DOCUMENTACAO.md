@@ -1,6 +1,6 @@
 # Futebol 2D — arquitetura e guia técnico
 
-Documento para quem vai **analizar, avaliar, manter, estender ou depurar** o projeto.
+Documento para quem vai **analisar, avaliar, manter, estender ou depurar** o projeto.
 
 Este documento foi gerado a partir de um **Modelo**
 
