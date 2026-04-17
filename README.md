@@ -7,7 +7,7 @@ Documentação de arquitetura e subsistemas: [**docs/DOCUMENTACAO.md**](docs/DOC
 ## Início rápido
 
 ```bash
-gcc -std=gnu17 -Wall -Wextra -O2 fut.c audio.c -o fut -lGL -lGLU -lglut -lopenal -lm
+gcc  -Wall -Wextra -O2 fut.c audio.c -o fut -lGL -lGLU -lglut -lopenal -lm
 ./fut
 ```
 
@@ -17,7 +17,7 @@ gcc -std=gnu17 -Wall -Wextra -O2 fut.c audio.c -o fut -lGL -lGLU -lglut -lopenal
 Sem OpenAL (headers ausentes ou link sem `-lopenal`), o mesmo `audio.c` compila com implementações vazias; o jogo roda mudo.
 
 ```bash
-gcc -std=gnu17 -Wall -Wextra -O2 fut.c audio.c -o fut -lGL -lGLU -lglut -lm
+gcc  -Wall -Wextra -O2 fut.c audio.c -o fut -lGL -lGLU -lglut -lm
 ```
 
 ## Dependências
