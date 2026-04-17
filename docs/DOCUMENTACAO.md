@@ -6,7 +6,7 @@ Este documento foi gerado a partir de um **Modelo**
 
 O Projeto Foi testado apenas no **Linux** (**Fedora 43** ❤️ )
 
-Os audios foram baixados **youtube** (NoCopyrightSounds) e **voicy.network** (inclusive trecho da música de love again - **jhon newman** gratuito com inclusão de créditos) e **sounddino.com** (efeitos sonoros gratuitos).
+Os audios foram baixados **youtube** (NoCopyrightSounds) e **voicy.network** (inclusive trecho da música de love again - **Jhon Newman** gratuito com inclusão de créditos) e **sounddino.com** (efeitos sonoros gratuitos).
 
 ---
 
