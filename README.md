@@ -1,6 +1,6 @@
 # Futebol 2D
 
-Futebol em vista superior, **C99 + OpenGL (immediate mode)** e **FreeGLUT**. Um binário monolítico (`fut.c`) concentra simulação, regras, IA e renderização; o áudio é um módulo opcional (`audio.c` / `audio.h`) por trás da mesma API, com ou sem OpenAL em tempo de compilação.
+Futebol em vista superior, utilizando **C99 + OpenGL** e **FreeGLUT**. Um binário monolítico (`fut.c`) concentra simulação, regras, IA e renderização; o áudio é um módulo opcional (`audio.c` / `audio.h`) por trás da mesma API, com ou sem OpenAL em tempo de compilação.
 
 Documentação de arquitetura e subsistemas: [**docs/DOCUMENTACAO.md**](docs/DOCUMENTACAO.md).
 
